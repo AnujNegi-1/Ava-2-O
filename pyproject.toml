@@ -1,0 +1,11 @@
+[project]
+name = "2-o"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "google-generativeai>=0.8.5",
+    "speech-recognition",
+]
