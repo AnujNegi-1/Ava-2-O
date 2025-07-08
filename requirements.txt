@@ -1,8 +1,7 @@
-dotenv
 streamlit
-google.generativeai
+python-dotenv
 speech_recognition
-pyttsx3
-folium
+pyaudio
 geopy
-pil
+openai
+
