@@ -4,5 +4,5 @@ google.generativeai
 speech_recognition
 pyttsx3
 folium
-geopy.geocoders
+geopy
 pil
