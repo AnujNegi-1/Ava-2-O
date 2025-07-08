@@ -1,4 +1,4 @@
-dotenv
+python-dotenv
 streamlit
 google.generativeai
 speech_recognition
