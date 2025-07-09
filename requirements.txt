@@ -6,4 +6,3 @@ pyttsx3
 folium
 geopy
 Pillow
-PyAudio
