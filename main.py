@@ -111,5 +111,4 @@ if st.button("Search Location"):
         else:
             st.error("No matching location found.")
 
-            
 # Removed repeated text inputs and duplicate header
